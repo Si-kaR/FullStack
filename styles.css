@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+}
+
+body{
+    font-family: 'Arimo', sans-serif;
+    font-size: small;
+    padding: 20px;
+}
+
+.cv{
+    width: 900px;
+    height: auto;
+    margin: 50px auto;
+}
+
+.pers_info{
+  padding: 20px;
+}
+.highlight_1 {
+    color: red;
+}
+
+.my_info{
+    text-align: center;                            
+}
+.highlight_2 {
+    color: red;
+}
+
+.ashesi_profile{
+    display: flex;
+    justify-content: space-between;
+}
+.highlight_3 {
+    color: red;
+}
+.ashesi_location{
+    text-align: end;
+}
+
+
+.achievements{
+    display: flex;
+    justify-content: space-between;
+}
+.highlight_4 {
+    color: red;
+}
+.achievements_dates{
+    text-align: end;
+}
+.work_experience{
+    display: flex;
+    justify-content: space-between;
+}
+.highlight_5 {
+    color: red;
+}
+.work_experience_dates{
+    text-align: end;
+}
+
+.projects_research{
+    display: flex;
+    justify-content: space-between;
+}
+.highlight_6 {
+    color: red;
+}
+.projects_research_dates{
+    text-align: end;
+}
+
+.co_curricular{
+    display: flex;
+    justify-content: space-between;
+}
+.highlight_7 {
+    color: red;
+}
+.co_curricular_dates{
+    text-align: end;
+}
+
+.skills{
+    display: flex;
+    justify-content: space-between;
+}
+.highlight_8 {
+    color: red;
+}
+.skills_info{
+    text-align: end;
+}
+
+.reference{
+    display: flex;
+    justify-content: space-between;
+}
+.highlight_9 {
+    color: red;
+}
+
+.reference_info{
+    text-align: end;
+}
